@@ -40,7 +40,7 @@ public interface Consts {
    * Set your Web Client ID for authentication at backend.
    */
   // TODO whence client ID for installed apps?
-  public static final String WEB_CLIENT_ID = "<<client ID>>;
+  public static final String WEB_CLIENT_ID = "<<client ID>>";
  
   /**
    * Set default user authentication enabled or disabled.
